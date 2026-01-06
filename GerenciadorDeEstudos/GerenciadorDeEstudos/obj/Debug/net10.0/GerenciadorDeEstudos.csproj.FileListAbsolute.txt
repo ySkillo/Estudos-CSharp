@@ -1,0 +1,14 @@
+C:\Users\mathe\source\repos\GerenciadorDeEstudos\GerenciadorDeEstudos\bin\Debug\net10.0\GerenciadorDeEstudos.exe
+C:\Users\mathe\source\repos\GerenciadorDeEstudos\GerenciadorDeEstudos\bin\Debug\net10.0\GerenciadorDeEstudos.deps.json
+C:\Users\mathe\source\repos\GerenciadorDeEstudos\GerenciadorDeEstudos\bin\Debug\net10.0\GerenciadorDeEstudos.runtimeconfig.json
+C:\Users\mathe\source\repos\GerenciadorDeEstudos\GerenciadorDeEstudos\bin\Debug\net10.0\GerenciadorDeEstudos.dll
+C:\Users\mathe\source\repos\GerenciadorDeEstudos\GerenciadorDeEstudos\bin\Debug\net10.0\GerenciadorDeEstudos.pdb
+C:\Users\mathe\source\repos\GerenciadorDeEstudos\GerenciadorDeEstudos\obj\Debug\net10.0\GerenciadorDeEstudos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\source\repos\GerenciadorDeEstudos\GerenciadorDeEstudos\obj\Debug\net10.0\GerenciadorDeEstudos.AssemblyInfoInputs.cache
+C:\Users\mathe\source\repos\GerenciadorDeEstudos\GerenciadorDeEstudos\obj\Debug\net10.0\GerenciadorDeEstudos.AssemblyInfo.cs
+C:\Users\mathe\source\repos\GerenciadorDeEstudos\GerenciadorDeEstudos\obj\Debug\net10.0\GerenciadorDeEstudos.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\GerenciadorDeEstudos\GerenciadorDeEstudos\obj\Debug\net10.0\GerenciadorDeEstudos.dll
+C:\Users\mathe\source\repos\GerenciadorDeEstudos\GerenciadorDeEstudos\obj\Debug\net10.0\refint\GerenciadorDeEstudos.dll
+C:\Users\mathe\source\repos\GerenciadorDeEstudos\GerenciadorDeEstudos\obj\Debug\net10.0\GerenciadorDeEstudos.pdb
+C:\Users\mathe\source\repos\GerenciadorDeEstudos\GerenciadorDeEstudos\obj\Debug\net10.0\GerenciadorDeEstudos.genruntimeconfig.cache
+C:\Users\mathe\source\repos\GerenciadorDeEstudos\GerenciadorDeEstudos\obj\Debug\net10.0\ref\GerenciadorDeEstudos.dll
