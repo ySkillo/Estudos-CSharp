@@ -6,7 +6,7 @@ namespace ControleDespesas.Models
 {
     public class Despesa
     {
-        public string Descricao { get; set; }
+        public string Descricao { get; set; } = string.Empty;
         public decimal Valor { get; set; }
         public DateTime Data { get; set; }
         public string? Observacao { get; set; } // nullable permitindo valores nulos
