@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mathe\\source\\repos\\ControleDespesas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82B648AE-EC52-4BBD-823D-2E2D89FC92EE}|ControleDespesas\\ControleDespesas.csproj|c:\\users\\mathe\\source\\repos\\controledespesas\\controledespesas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B648AE-EC52-4BBD-823D-2E2D89FC92EE}|ControleDespesas\\ControleDespesas.csproj|solutionrelative:controledespesas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B648AE-EC52-4BBD-823D-2E2D89FC92EE}|ControleDespesas\\ControleDespesas.csproj|c:\\users\\mathe\\source\\repos\\controledespesas\\controledespesas\\models\\despesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B648AE-EC52-4BBD-823D-2E2D89FC92EE}|ControleDespesas\\ControleDespesas.csproj|solutionrelative:controledespesas\\models\\despesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Despesa.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\ControleDespesas\\ControleDespesas\\Models\\Despesa.cs",
+              "RelativeDocumentMoniker": "ControleDespesas\\Models\\Despesa.cs",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\ControleDespesas\\ControleDespesas\\Models\\Despesa.cs",
+              "RelativeToolTip": "ControleDespesas\\Models\\Despesa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T14:47:01.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\ControleDespesas\\ControleDespesas\\Program.cs",
+              "RelativeDocumentMoniker": "ControleDespesas\\Program.cs",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\ControleDespesas\\ControleDespesas\\Program.cs",
+              "RelativeToolTip": "ControleDespesas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T14:45:47.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

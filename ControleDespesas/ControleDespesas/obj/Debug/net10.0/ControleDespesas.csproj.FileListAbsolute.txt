@@ -1,0 +1,14 @@
+C:\Users\mathe\source\repos\ControleDespesas\ControleDespesas\bin\Debug\net10.0\ControleDespesas.exe
+C:\Users\mathe\source\repos\ControleDespesas\ControleDespesas\bin\Debug\net10.0\ControleDespesas.deps.json
+C:\Users\mathe\source\repos\ControleDespesas\ControleDespesas\bin\Debug\net10.0\ControleDespesas.runtimeconfig.json
+C:\Users\mathe\source\repos\ControleDespesas\ControleDespesas\bin\Debug\net10.0\ControleDespesas.dll
+C:\Users\mathe\source\repos\ControleDespesas\ControleDespesas\bin\Debug\net10.0\ControleDespesas.pdb
+C:\Users\mathe\source\repos\ControleDespesas\ControleDespesas\obj\Debug\net10.0\ControleDespesas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\source\repos\ControleDespesas\ControleDespesas\obj\Debug\net10.0\ControleDespesas.AssemblyInfoInputs.cache
+C:\Users\mathe\source\repos\ControleDespesas\ControleDespesas\obj\Debug\net10.0\ControleDespesas.AssemblyInfo.cs
+C:\Users\mathe\source\repos\ControleDespesas\ControleDespesas\obj\Debug\net10.0\ControleDespesas.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\ControleDespesas\ControleDespesas\obj\Debug\net10.0\ControleDespesas.dll
+C:\Users\mathe\source\repos\ControleDespesas\ControleDespesas\obj\Debug\net10.0\refint\ControleDespesas.dll
+C:\Users\mathe\source\repos\ControleDespesas\ControleDespesas\obj\Debug\net10.0\ControleDespesas.pdb
+C:\Users\mathe\source\repos\ControleDespesas\ControleDespesas\obj\Debug\net10.0\ControleDespesas.genruntimeconfig.cache
+C:\Users\mathe\source\repos\ControleDespesas\ControleDespesas\obj\Debug\net10.0\ref\ControleDespesas.dll
