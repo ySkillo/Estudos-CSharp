@@ -1,0 +1,15 @@
+C:\GitHub repos\Estudos-CSharp\LinqLambda\bin\Debug\net10.0\LinqLambda.exe
+C:\GitHub repos\Estudos-CSharp\LinqLambda\bin\Debug\net10.0\LinqLambda.deps.json
+C:\GitHub repos\Estudos-CSharp\LinqLambda\bin\Debug\net10.0\LinqLambda.runtimeconfig.json
+C:\GitHub repos\Estudos-CSharp\LinqLambda\bin\Debug\net10.0\LinqLambda.dll
+C:\GitHub repos\Estudos-CSharp\LinqLambda\bin\Debug\net10.0\LinqLambda.pdb
+C:\GitHub repos\Estudos-CSharp\LinqLambda\obj\Debug\net10.0\LinqLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub repos\Estudos-CSharp\LinqLambda\obj\Debug\net10.0\LinqLambda.AssemblyInfoInputs.cache
+C:\GitHub repos\Estudos-CSharp\LinqLambda\obj\Debug\net10.0\LinqLambda.AssemblyInfo.cs
+C:\GitHub repos\Estudos-CSharp\LinqLambda\obj\Debug\net10.0\LinqLambda.csproj.CoreCompileInputs.cache
+C:\GitHub repos\Estudos-CSharp\LinqLambda\obj\Debug\net10.0\LinqLambda.sourcelink.json
+C:\GitHub repos\Estudos-CSharp\LinqLambda\obj\Debug\net10.0\LinqLambda.dll
+C:\GitHub repos\Estudos-CSharp\LinqLambda\obj\Debug\net10.0\refint\LinqLambda.dll
+C:\GitHub repos\Estudos-CSharp\LinqLambda\obj\Debug\net10.0\LinqLambda.pdb
+C:\GitHub repos\Estudos-CSharp\LinqLambda\obj\Debug\net10.0\LinqLambda.genruntimeconfig.cache
+C:\GitHub repos\Estudos-CSharp\LinqLambda\obj\Debug\net10.0\ref\LinqLambda.dll

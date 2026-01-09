@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GerenciadorDeEstudos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d63cd02a498f5868dbacc4ba3565d41f8ba2b7fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("GerenciadorDeEstudos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GerenciadorDeEstudos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

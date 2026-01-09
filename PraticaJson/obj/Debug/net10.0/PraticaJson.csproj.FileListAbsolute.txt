@@ -1,0 +1,14 @@
+C:\Users\mathe\source\repos\PraticaJson\bin\Debug\net10.0\PraticaJson.exe
+C:\Users\mathe\source\repos\PraticaJson\bin\Debug\net10.0\PraticaJson.deps.json
+C:\Users\mathe\source\repos\PraticaJson\bin\Debug\net10.0\PraticaJson.runtimeconfig.json
+C:\Users\mathe\source\repos\PraticaJson\bin\Debug\net10.0\PraticaJson.dll
+C:\Users\mathe\source\repos\PraticaJson\bin\Debug\net10.0\PraticaJson.pdb
+C:\Users\mathe\source\repos\PraticaJson\obj\Debug\net10.0\PraticaJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\source\repos\PraticaJson\obj\Debug\net10.0\PraticaJson.AssemblyInfoInputs.cache
+C:\Users\mathe\source\repos\PraticaJson\obj\Debug\net10.0\PraticaJson.AssemblyInfo.cs
+C:\Users\mathe\source\repos\PraticaJson\obj\Debug\net10.0\PraticaJson.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\PraticaJson\obj\Debug\net10.0\PraticaJson.dll
+C:\Users\mathe\source\repos\PraticaJson\obj\Debug\net10.0\refint\PraticaJson.dll
+C:\Users\mathe\source\repos\PraticaJson\obj\Debug\net10.0\PraticaJson.pdb
+C:\Users\mathe\source\repos\PraticaJson\obj\Debug\net10.0\PraticaJson.genruntimeconfig.cache
+C:\Users\mathe\source\repos\PraticaJson\obj\Debug\net10.0\ref\PraticaJson.dll

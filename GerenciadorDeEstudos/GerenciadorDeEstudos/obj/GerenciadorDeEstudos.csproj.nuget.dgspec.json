@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mathe\\source\\repos\\GerenciadorDeEstudos\\GerenciadorDeEstudos\\GerenciadorDeEstudos.csproj": {}
+    "C:\\GitHub repos\\Estudos-CSharp\\GerenciadorDeEstudos\\GerenciadorDeEstudos\\GerenciadorDeEstudos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mathe\\source\\repos\\GerenciadorDeEstudos\\GerenciadorDeEstudos\\GerenciadorDeEstudos.csproj": {
+    "C:\\GitHub repos\\Estudos-CSharp\\GerenciadorDeEstudos\\GerenciadorDeEstudos\\GerenciadorDeEstudos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mathe\\source\\repos\\GerenciadorDeEstudos\\GerenciadorDeEstudos\\GerenciadorDeEstudos.csproj",
+        "projectUniqueName": "C:\\GitHub repos\\Estudos-CSharp\\GerenciadorDeEstudos\\GerenciadorDeEstudos\\GerenciadorDeEstudos.csproj",
         "projectName": "GerenciadorDeEstudos",
-        "projectPath": "C:\\Users\\mathe\\source\\repos\\GerenciadorDeEstudos\\GerenciadorDeEstudos\\GerenciadorDeEstudos.csproj",
+        "projectPath": "C:\\GitHub repos\\Estudos-CSharp\\GerenciadorDeEstudos\\GerenciadorDeEstudos\\GerenciadorDeEstudos.csproj",
         "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mathe\\source\\repos\\GerenciadorDeEstudos\\GerenciadorDeEstudos\\obj\\",
+        "outputPath": "C:\\GitHub repos\\Estudos-CSharp\\GerenciadorDeEstudos\\GerenciadorDeEstudos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
