@@ -1,0 +1,15 @@
+C:\GitHub repos\Estudos-CSharp\PraticaException\bin\Debug\net10.0\PraticaException.exe
+C:\GitHub repos\Estudos-CSharp\PraticaException\bin\Debug\net10.0\PraticaException.deps.json
+C:\GitHub repos\Estudos-CSharp\PraticaException\bin\Debug\net10.0\PraticaException.runtimeconfig.json
+C:\GitHub repos\Estudos-CSharp\PraticaException\bin\Debug\net10.0\PraticaException.dll
+C:\GitHub repos\Estudos-CSharp\PraticaException\bin\Debug\net10.0\PraticaException.pdb
+C:\GitHub repos\Estudos-CSharp\PraticaException\obj\Debug\net10.0\PraticaException.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub repos\Estudos-CSharp\PraticaException\obj\Debug\net10.0\PraticaException.AssemblyInfoInputs.cache
+C:\GitHub repos\Estudos-CSharp\PraticaException\obj\Debug\net10.0\PraticaException.AssemblyInfo.cs
+C:\GitHub repos\Estudos-CSharp\PraticaException\obj\Debug\net10.0\PraticaException.csproj.CoreCompileInputs.cache
+C:\GitHub repos\Estudos-CSharp\PraticaException\obj\Debug\net10.0\PraticaException.sourcelink.json
+C:\GitHub repos\Estudos-CSharp\PraticaException\obj\Debug\net10.0\PraticaException.dll
+C:\GitHub repos\Estudos-CSharp\PraticaException\obj\Debug\net10.0\refint\PraticaException.dll
+C:\GitHub repos\Estudos-CSharp\PraticaException\obj\Debug\net10.0\PraticaException.pdb
+C:\GitHub repos\Estudos-CSharp\PraticaException\obj\Debug\net10.0\PraticaException.genruntimeconfig.cache
+C:\GitHub repos\Estudos-CSharp\PraticaException\obj\Debug\net10.0\ref\PraticaException.dll
