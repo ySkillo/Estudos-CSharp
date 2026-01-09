@@ -1,0 +1,15 @@
+C:\GitHub repos\Estudos-CSharp\SintaxeBasica\bin\Debug\net10.0\SintaxeBasica.exe
+C:\GitHub repos\Estudos-CSharp\SintaxeBasica\bin\Debug\net10.0\SintaxeBasica.deps.json
+C:\GitHub repos\Estudos-CSharp\SintaxeBasica\bin\Debug\net10.0\SintaxeBasica.runtimeconfig.json
+C:\GitHub repos\Estudos-CSharp\SintaxeBasica\bin\Debug\net10.0\SintaxeBasica.dll
+C:\GitHub repos\Estudos-CSharp\SintaxeBasica\bin\Debug\net10.0\SintaxeBasica.pdb
+C:\GitHub repos\Estudos-CSharp\SintaxeBasica\obj\Debug\net10.0\SintaxeBasica.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub repos\Estudos-CSharp\SintaxeBasica\obj\Debug\net10.0\SintaxeBasica.AssemblyInfoInputs.cache
+C:\GitHub repos\Estudos-CSharp\SintaxeBasica\obj\Debug\net10.0\SintaxeBasica.AssemblyInfo.cs
+C:\GitHub repos\Estudos-CSharp\SintaxeBasica\obj\Debug\net10.0\SintaxeBasica.csproj.CoreCompileInputs.cache
+C:\GitHub repos\Estudos-CSharp\SintaxeBasica\obj\Debug\net10.0\SintaxeBasica.sourcelink.json
+C:\GitHub repos\Estudos-CSharp\SintaxeBasica\obj\Debug\net10.0\SintaxeBasica.dll
+C:\GitHub repos\Estudos-CSharp\SintaxeBasica\obj\Debug\net10.0\refint\SintaxeBasica.dll
+C:\GitHub repos\Estudos-CSharp\SintaxeBasica\obj\Debug\net10.0\SintaxeBasica.pdb
+C:\GitHub repos\Estudos-CSharp\SintaxeBasica\obj\Debug\net10.0\SintaxeBasica.genruntimeconfig.cache
+C:\GitHub repos\Estudos-CSharp\SintaxeBasica\obj\Debug\net10.0\ref\SintaxeBasica.dll
