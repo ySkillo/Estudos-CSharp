@@ -1,0 +1,15 @@
+C:\GitHub repos\Estudos-CSharp\ExemploClassInterface\bin\Debug\net10.0\ExemploClassInterface.exe
+C:\GitHub repos\Estudos-CSharp\ExemploClassInterface\bin\Debug\net10.0\ExemploClassInterface.deps.json
+C:\GitHub repos\Estudos-CSharp\ExemploClassInterface\bin\Debug\net10.0\ExemploClassInterface.runtimeconfig.json
+C:\GitHub repos\Estudos-CSharp\ExemploClassInterface\bin\Debug\net10.0\ExemploClassInterface.dll
+C:\GitHub repos\Estudos-CSharp\ExemploClassInterface\bin\Debug\net10.0\ExemploClassInterface.pdb
+C:\GitHub repos\Estudos-CSharp\ExemploClassInterface\obj\Debug\net10.0\ExemploClassInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub repos\Estudos-CSharp\ExemploClassInterface\obj\Debug\net10.0\ExemploClassInterface.AssemblyInfoInputs.cache
+C:\GitHub repos\Estudos-CSharp\ExemploClassInterface\obj\Debug\net10.0\ExemploClassInterface.AssemblyInfo.cs
+C:\GitHub repos\Estudos-CSharp\ExemploClassInterface\obj\Debug\net10.0\ExemploClassInterface.csproj.CoreCompileInputs.cache
+C:\GitHub repos\Estudos-CSharp\ExemploClassInterface\obj\Debug\net10.0\ExemploClassInterface.sourcelink.json
+C:\GitHub repos\Estudos-CSharp\ExemploClassInterface\obj\Debug\net10.0\ExemploClassInterface.dll
+C:\GitHub repos\Estudos-CSharp\ExemploClassInterface\obj\Debug\net10.0\refint\ExemploClassInterface.dll
+C:\GitHub repos\Estudos-CSharp\ExemploClassInterface\obj\Debug\net10.0\ExemploClassInterface.pdb
+C:\GitHub repos\Estudos-CSharp\ExemploClassInterface\obj\Debug\net10.0\ExemploClassInterface.genruntimeconfig.cache
+C:\GitHub repos\Estudos-CSharp\ExemploClassInterface\obj\Debug\net10.0\ref\ExemploClassInterface.dll

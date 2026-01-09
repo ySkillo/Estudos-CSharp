@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub repos\\Estudos-CSharp\\ExemploClassInterface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{647F80D5-71D9-CDBC-A435-1840F980B86E}|ExemploClassInterface.csproj|c:\\github repos\\estudos-csharp\\exemploclassinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647F80D5-71D9-CDBC-A435-1840F980B86E}|ExemploClassInterface.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647F80D5-71D9-CDBC-A435-1840F980B86E}|ExemploClassInterface.csproj|c:\\github repos\\estudos-csharp\\exemploclassinterface\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647F80D5-71D9-CDBC-A435-1840F980B86E}|ExemploClassInterface.csproj|solutionrelative:funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647F80D5-71D9-CDBC-A435-1840F980B86E}|ExemploClassInterface.csproj|c:\\github repos\\estudos-csharp\\exemploclassinterface\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647F80D5-71D9-CDBC-A435-1840F980B86E}|ExemploClassInterface.csproj|solutionrelative:pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647F80D5-71D9-CDBC-A435-1840F980B86E}|ExemploClassInterface.csproj|c:\\github repos\\estudos-csharp\\exemploclassinterface\\admissao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647F80D5-71D9-CDBC-A435-1840F980B86E}|ExemploClassInterface.csproj|solutionrelative:admissao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647F80D5-71D9-CDBC-A435-1840F980B86E}|ExemploClassInterface.csproj|c:\\github repos\\estudos-csharp\\exemploclassinterface\\exemploclassinterface.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{647F80D5-71D9-CDBC-A435-1840F980B86E}|ExemploClassInterface.csproj|solutionrelative:exemploclassinterface.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647F80D5-71D9-CDBC-A435-1840F980B86E}|ExemploClassInterface.csproj|c:\\github repos\\estudos-csharp\\exemploclassinterface\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647F80D5-71D9-CDBC-A435-1840F980B86E}|ExemploClassInterface.csproj|solutionrelative:conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admissao.cs",
+              "DocumentMoniker": "C:\\GitHub repos\\Estudos-CSharp\\ExemploClassInterface\\Admissao.cs",
+              "RelativeDocumentMoniker": "Admissao.cs",
+              "ToolTip": "C:\\GitHub repos\\Estudos-CSharp\\ExemploClassInterface\\Admissao.cs",
+              "RelativeToolTip": "Admissao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T18:30:19.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExemploClassInterface.csproj",
+              "DocumentMoniker": "C:\\GitHub repos\\Estudos-CSharp\\ExemploClassInterface\\ExemploClassInterface.csproj",
+              "RelativeDocumentMoniker": "ExemploClassInterface.csproj",
+              "ToolTip": "C:\\GitHub repos\\Estudos-CSharp\\ExemploClassInterface\\ExemploClassInterface.csproj",
+              "RelativeToolTip": "ExemploClassInterface.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-08T17:53:50.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Conta.cs",
+              "DocumentMoniker": "C:\\GitHub repos\\Estudos-CSharp\\ExemploClassInterface\\Conta.cs",
+              "RelativeDocumentMoniker": "Conta.cs",
+              "ToolTip": "C:\\GitHub repos\\Estudos-CSharp\\ExemploClassInterface\\Conta.cs",
+              "RelativeToolTip": "Conta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T18:10:34.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\GitHub repos\\Estudos-CSharp\\ExemploClassInterface\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Funcionario.cs",
+              "ToolTip": "C:\\GitHub repos\\Estudos-CSharp\\ExemploClassInterface\\Funcionario.cs",
+              "RelativeToolTip": "Funcionario.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwCsAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T17:57:48.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\GitHub repos\\Estudos-CSharp\\ExemploClassInterface\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Pessoa.cs",
+              "ToolTip": "C:\\GitHub repos\\Estudos-CSharp\\ExemploClassInterface\\Pessoa.cs",
+              "RelativeToolTip": "Pessoa.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T17:54:02.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub repos\\Estudos-CSharp\\ExemploClassInterface\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\GitHub repos\\Estudos-CSharp\\ExemploClassInterface\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T17:52:19.914Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
