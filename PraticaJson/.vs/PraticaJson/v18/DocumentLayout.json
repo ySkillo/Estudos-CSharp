@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mathe\\source\\repos\\PraticaJson\\",
+  "WorkspaceRootPath": "C:\\GitHub repos\\Estudos-CSharp\\PraticaJson\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AA609EF0-D8F1-0A72-C705-B591481E1E9E}|PraticaJson.csproj|c:\\users\\mathe\\source\\repos\\praticajson\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA609EF0-D8F1-0A72-C705-B591481E1E9E}|PraticaJson.csproj|solutionrelative:models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA609EF0-D8F1-0A72-C705-B591481E1E9E}|PraticaJson.csproj|c:\\users\\mathe\\source\\repos\\praticajson\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AA609EF0-D8F1-0A72-C705-B591481E1E9E}|PraticaJson.csproj|c:\\github repos\\estudos-csharp\\praticajson\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA609EF0-D8F1-0A72-C705-B591481E1E9E}|PraticaJson.csproj|solutionrelative:services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA609EF0-D8F1-0A72-C705-B591481E1E9E}|PraticaJson.csproj|c:\\users\\mathe\\source\\repos\\praticajson\\praticajson.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{AA609EF0-D8F1-0A72-C705-B591481E1E9E}|PraticaJson.csproj|c:\\github repos\\estudos-csharp\\praticajson\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA609EF0-D8F1-0A72-C705-B591481E1E9E}|PraticaJson.csproj|solutionrelative:models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA609EF0-D8F1-0A72-C705-B591481E1E9E}|PraticaJson.csproj|c:\\github repos\\estudos-csharp\\praticajson\\praticajson.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{AA609EF0-D8F1-0A72-C705-B591481E1E9E}|PraticaJson.csproj|solutionrelative:praticajson.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA609EF0-D8F1-0A72-C705-B591481E1E9E}|PraticaJson.csproj|c:\\users\\mathe\\source\\repos\\praticajson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AA609EF0-D8F1-0A72-C705-B591481E1E9E}|PraticaJson.csproj|c:\\github repos\\estudos-csharp\\praticajson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA609EF0-D8F1-0A72-C705-B591481E1E9E}|PraticaJson.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA609EF0-D8F1-0A72-C705-B591481E1E9E}|PraticaJson.csproj|c:\\users\\mathe\\source\\repos\\praticajson\\data\\user.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{AA609EF0-D8F1-0A72-C705-B591481E1E9E}|PraticaJson.csproj|c:\\github repos\\estudos-csharp\\praticajson\\data\\user.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{AA609EF0-D8F1-0A72-C705-B591481E1E9E}|PraticaJson.csproj|solutionrelative:data\\user.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -30,28 +30,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "user.json",
-              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\PraticaJson\\Data\\user.json",
+              "DocumentMoniker": "C:\\GitHub repos\\Estudos-CSharp\\PraticaJson\\Data\\user.json",
               "RelativeDocumentMoniker": "Data\\user.json",
-              "ToolTip": "C:\\Users\\mathe\\source\\repos\\PraticaJson\\Data\\user.json",
+              "ToolTip": "C:\\GitHub repos\\Estudos-CSharp\\PraticaJson\\Data\\user.json",
               "RelativeToolTip": "Data\\user.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-07T03:26:56.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-07T03:26:56.945Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UserModel.cs",
-              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\PraticaJson\\Models\\UserModel.cs",
+              "DocumentMoniker": "C:\\GitHub repos\\Estudos-CSharp\\PraticaJson\\Models\\UserModel.cs",
               "RelativeDocumentMoniker": "Models\\UserModel.cs",
-              "ToolTip": "C:\\Users\\mathe\\source\\repos\\PraticaJson\\Models\\UserModel.cs",
+              "ToolTip": "C:\\GitHub repos\\Estudos-CSharp\\PraticaJson\\Models\\UserModel.cs",
               "RelativeToolTip": "Models\\UserModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -60,13 +59,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "UserServices.cs",
-              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\PraticaJson\\Services\\UserServices.cs",
+              "DocumentMoniker": "C:\\GitHub repos\\Estudos-CSharp\\PraticaJson\\Services\\UserServices.cs",
               "RelativeDocumentMoniker": "Services\\UserServices.cs",
-              "ToolTip": "C:\\Users\\mathe\\source\\repos\\PraticaJson\\Services\\UserServices.cs",
+              "ToolTip": "C:\\GitHub repos\\Estudos-CSharp\\PraticaJson\\Services\\UserServices.cs",
               "RelativeToolTip": "Services\\UserServices.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAwwDEAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-07T02:54:45.026Z",
               "EditorCaption": ""
@@ -75,27 +74,25 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "PraticaJson.csproj",
-              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\PraticaJson\\PraticaJson.csproj",
+              "DocumentMoniker": "C:\\GitHub repos\\Estudos-CSharp\\PraticaJson\\PraticaJson.csproj",
               "RelativeDocumentMoniker": "PraticaJson.csproj",
-              "ToolTip": "C:\\Users\\mathe\\source\\repos\\PraticaJson\\PraticaJson.csproj",
+              "ToolTip": "C:\\GitHub repos\\Estudos-CSharp\\PraticaJson\\PraticaJson.csproj",
               "RelativeToolTip": "PraticaJson.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-07T02:54:17.293Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-07T02:54:17.293Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\PraticaJson\\Program.cs",
+              "DocumentMoniker": "C:\\GitHub repos\\Estudos-CSharp\\PraticaJson\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\mathe\\source\\repos\\PraticaJson\\Program.cs",
+              "ToolTip": "C:\\GitHub repos\\Estudos-CSharp\\PraticaJson\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T02:53:31.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-07T02:53:31.12Z"
             }
           ]
         }

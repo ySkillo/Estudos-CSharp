@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mathe\\source\\repos\\PraticaJson\\PraticaJson.csproj",
+      "projectUniqueName": "C:\\GitHub repos\\Estudos-CSharp\\PraticaJson\\PraticaJson.csproj",
       "projectName": "PraticaJson",
-      "projectPath": "C:\\Users\\mathe\\source\\repos\\PraticaJson\\PraticaJson.csproj",
+      "projectPath": "C:\\GitHub repos\\Estudos-CSharp\\PraticaJson\\PraticaJson.csproj",
       "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mathe\\source\\repos\\PraticaJson\\obj\\",
+      "outputPath": "C:\\GitHub repos\\Estudos-CSharp\\PraticaJson\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

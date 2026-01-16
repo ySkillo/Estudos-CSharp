@@ -1,0 +1,15 @@
+C:\GitHub repos\Estudos-CSharp\EstudosJson\bin\Debug\net10.0\EstudosJson.exe
+C:\GitHub repos\Estudos-CSharp\EstudosJson\bin\Debug\net10.0\EstudosJson.deps.json
+C:\GitHub repos\Estudos-CSharp\EstudosJson\bin\Debug\net10.0\EstudosJson.runtimeconfig.json
+C:\GitHub repos\Estudos-CSharp\EstudosJson\bin\Debug\net10.0\EstudosJson.dll
+C:\GitHub repos\Estudos-CSharp\EstudosJson\bin\Debug\net10.0\EstudosJson.pdb
+C:\GitHub repos\Estudos-CSharp\EstudosJson\obj\Debug\net10.0\EstudosJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub repos\Estudos-CSharp\EstudosJson\obj\Debug\net10.0\EstudosJson.AssemblyInfoInputs.cache
+C:\GitHub repos\Estudos-CSharp\EstudosJson\obj\Debug\net10.0\EstudosJson.AssemblyInfo.cs
+C:\GitHub repos\Estudos-CSharp\EstudosJson\obj\Debug\net10.0\EstudosJson.csproj.CoreCompileInputs.cache
+C:\GitHub repos\Estudos-CSharp\EstudosJson\obj\Debug\net10.0\EstudosJson.sourcelink.json
+C:\GitHub repos\Estudos-CSharp\EstudosJson\obj\Debug\net10.0\EstudosJson.dll
+C:\GitHub repos\Estudos-CSharp\EstudosJson\obj\Debug\net10.0\refint\EstudosJson.dll
+C:\GitHub repos\Estudos-CSharp\EstudosJson\obj\Debug\net10.0\EstudosJson.pdb
+C:\GitHub repos\Estudos-CSharp\EstudosJson\obj\Debug\net10.0\EstudosJson.genruntimeconfig.cache
+C:\GitHub repos\Estudos-CSharp\EstudosJson\obj\Debug\net10.0\ref\EstudosJson.dll

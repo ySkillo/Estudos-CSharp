@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub repos\\Estudos-CSharp\\CadastroConsole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C670CCD-FFF7-6029-B281-6450A38919ED}|CadastroConsole.csproj|c:\\github repos\\estudos-csharp\\cadastroconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C670CCD-FFF7-6029-B281-6450A38919ED}|CadastroConsole.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C670CCD-FFF7-6029-B281-6450A38919ED}|CadastroConsole.csproj|c:\\github repos\\estudos-csharp\\cadastroconsole\\migrations\\20260116171000_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C670CCD-FFF7-6029-B281-6450A38919ED}|CadastroConsole.csproj|solutionrelative:migrations\\20260116171000_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C670CCD-FFF7-6029-B281-6450A38919ED}|CadastroConsole.csproj|c:\\github repos\\estudos-csharp\\cadastroconsole\\infrastructure\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C670CCD-FFF7-6029-B281-6450A38919ED}|CadastroConsole.csproj|solutionrelative:infrastructure\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C670CCD-FFF7-6029-B281-6450A38919ED}|CadastroConsole.csproj|c:\\github repos\\estudos-csharp\\cadastroconsole\\application\\services\\usuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C670CCD-FFF7-6029-B281-6450A38919ED}|CadastroConsole.csproj|solutionrelative:application\\services\\usuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C670CCD-FFF7-6029-B281-6450A38919ED}|CadastroConsole.csproj|c:\\github repos\\estudos-csharp\\cadastroconsole\\infrastructure\\appdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C670CCD-FFF7-6029-B281-6450A38919ED}|CadastroConsole.csproj|solutionrelative:infrastructure\\appdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C670CCD-FFF7-6029-B281-6450A38919ED}|CadastroConsole.csproj|c:\\github repos\\estudos-csharp\\cadastroconsole\\domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C670CCD-FFF7-6029-B281-6450A38919ED}|CadastroConsole.csproj|solutionrelative:domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C670CCD-FFF7-6029-B281-6450A38919ED}|CadastroConsole.csproj|c:\\github repos\\estudos-csharp\\cadastroconsole\\application\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C670CCD-FFF7-6029-B281-6450A38919ED}|CadastroConsole.csproj|solutionrelative:application\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C670CCD-FFF7-6029-B281-6450A38919ED}|CadastroConsole.csproj|c:\\github repos\\estudos-csharp\\cadastroconsole\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C670CCD-FFF7-6029-B281-6450A38919ED}|CadastroConsole.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C670CCD-FFF7-6029-B281-6450A38919ED}|CadastroConsole.csproj|c:\\github repos\\estudos-csharp\\cadastroconsole\\cadastroconsole.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8C670CCD-FFF7-6029-B281-6450A38919ED}|CadastroConsole.csproj|solutionrelative:cadastroconsole.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C670CCD-FFF7-6029-B281-6450A38919ED}|CadastroConsole.csproj|c:\\github repos\\estudos-csharp\\cadastroconsole\\application\\interfaces\\iusuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C670CCD-FFF7-6029-B281-6450A38919ED}|CadastroConsole.csproj|solutionrelative:application\\interfaces\\iusuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C670CCD-FFF7-6029-B281-6450A38919ED}|CadastroConsole.csproj|c:\\github repos\\estudos-csharp\\cadastroconsole\\application\\dtos\\criarusuariorequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C670CCD-FFF7-6029-B281-6450A38919ED}|CadastroConsole.csproj|solutionrelative:application\\dtos\\criarusuariorequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C670CCD-FFF7-6029-B281-6450A38919ED}|CadastroConsole.csproj|c:\\github repos\\estudos-csharp\\cadastroconsole\\application\\dtos\\criarusuarioresponsedts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C670CCD-FFF7-6029-B281-6450A38919ED}|CadastroConsole.csproj|solutionrelative:application\\dtos\\criarusuarioresponsedts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20260116171000_InitialCreate.cs",
+              "DocumentMoniker": "C:\\GitHub repos\\Estudos-CSharp\\CadastroConsole\\Migrations\\20260116171000_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260116171000_InitialCreate.cs",
+              "ToolTip": "C:\\GitHub repos\\Estudos-CSharp\\CadastroConsole\\Migrations\\20260116171000_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260116171000_InitialCreate.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T17:15:25.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext .cs",
+              "DocumentMoniker": "C:\\GitHub repos\\Estudos-CSharp\\CadastroConsole\\Infrastructure\\AppDbContext .cs",
+              "RelativeDocumentMoniker": "Infrastructure\\AppDbContext .cs",
+              "ToolTip": "C:\\GitHub repos\\Estudos-CSharp\\CadastroConsole\\Infrastructure\\AppDbContext .cs",
+              "RelativeToolTip": "Infrastructure\\AppDbContext .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T16:57:37.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\GitHub repos\\Estudos-CSharp\\CadastroConsole\\Application\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\GitHub repos\\Estudos-CSharp\\CadastroConsole\\Application\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T15:35:53.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\GitHub repos\\Estudos-CSharp\\CadastroConsole\\Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\GitHub repos\\Estudos-CSharp\\CadastroConsole\\Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T15:33:40.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioServices.cs",
+              "DocumentMoniker": "C:\\GitHub repos\\Estudos-CSharp\\CadastroConsole\\Application\\Services\\UsuarioServices.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\UsuarioServices.cs",
+              "ToolTip": "C:\\GitHub repos\\Estudos-CSharp\\CadastroConsole\\Application\\Services\\UsuarioServices.cs",
+              "RelativeToolTip": "Application\\Services\\UsuarioServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T15:33:24.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUsuarioServices.cs",
+              "DocumentMoniker": "C:\\GitHub repos\\Estudos-CSharp\\CadastroConsole\\Application\\Interfaces\\IUsuarioServices.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IUsuarioServices.cs",
+              "ToolTip": "C:\\GitHub repos\\Estudos-CSharp\\CadastroConsole\\Application\\Interfaces\\IUsuarioServices.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IUsuarioServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T15:32:42.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\GitHub repos\\Estudos-CSharp\\CadastroConsole\\Domain\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\GitHub repos\\Estudos-CSharp\\CadastroConsole\\Domain\\Entities\\Usuario.cs",
+              "RelativeToolTip": "Domain\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T15:28:24.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub repos\\Estudos-CSharp\\CadastroConsole\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\GitHub repos\\Estudos-CSharp\\CadastroConsole\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA6wBIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T15:26:13.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\GitHub repos\\Estudos-CSharp\\CadastroConsole\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\GitHub repos\\Estudos-CSharp\\CadastroConsole\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T17:15:35.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CadastroConsole.csproj",
+              "DocumentMoniker": "C:\\GitHub repos\\Estudos-CSharp\\CadastroConsole\\CadastroConsole.csproj",
+              "RelativeDocumentMoniker": "CadastroConsole.csproj",
+              "ToolTip": "C:\\GitHub repos\\Estudos-CSharp\\CadastroConsole\\CadastroConsole.csproj",
+              "RelativeToolTip": "CadastroConsole.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-16T17:01:09.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CriarUsuarioRequestDto.cs",
+              "DocumentMoniker": "C:\\GitHub repos\\Estudos-CSharp\\CadastroConsole\\Application\\DTOs\\CriarUsuarioRequestDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\CriarUsuarioRequestDto.cs",
+              "ToolTip": "C:\\GitHub repos\\Estudos-CSharp\\CadastroConsole\\Application\\DTOs\\CriarUsuarioRequestDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\CriarUsuarioRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T15:30:47.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CriarUsuarioResponseDts.cs",
+              "DocumentMoniker": "C:\\GitHub repos\\Estudos-CSharp\\CadastroConsole\\Application\\DTOs\\CriarUsuarioResponseDts.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\CriarUsuarioResponseDts.cs",
+              "ToolTip": "C:\\GitHub repos\\Estudos-CSharp\\CadastroConsole\\Application\\DTOs\\CriarUsuarioResponseDts.cs",
+              "RelativeToolTip": "Application\\DTOs\\CriarUsuarioResponseDts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T15:51:15.096Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

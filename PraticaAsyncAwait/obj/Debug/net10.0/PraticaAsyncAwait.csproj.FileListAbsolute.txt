@@ -1,0 +1,15 @@
+C:\GitHub repos\Estudos-CSharp\PraticaAsyncAwait\bin\Debug\net10.0\PraticaAsyncAwait.exe
+C:\GitHub repos\Estudos-CSharp\PraticaAsyncAwait\bin\Debug\net10.0\PraticaAsyncAwait.deps.json
+C:\GitHub repos\Estudos-CSharp\PraticaAsyncAwait\bin\Debug\net10.0\PraticaAsyncAwait.runtimeconfig.json
+C:\GitHub repos\Estudos-CSharp\PraticaAsyncAwait\bin\Debug\net10.0\PraticaAsyncAwait.dll
+C:\GitHub repos\Estudos-CSharp\PraticaAsyncAwait\bin\Debug\net10.0\PraticaAsyncAwait.pdb
+C:\GitHub repos\Estudos-CSharp\PraticaAsyncAwait\obj\Debug\net10.0\PraticaAsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub repos\Estudos-CSharp\PraticaAsyncAwait\obj\Debug\net10.0\PraticaAsyncAwait.AssemblyInfoInputs.cache
+C:\GitHub repos\Estudos-CSharp\PraticaAsyncAwait\obj\Debug\net10.0\PraticaAsyncAwait.AssemblyInfo.cs
+C:\GitHub repos\Estudos-CSharp\PraticaAsyncAwait\obj\Debug\net10.0\PraticaAsyncAwait.csproj.CoreCompileInputs.cache
+C:\GitHub repos\Estudos-CSharp\PraticaAsyncAwait\obj\Debug\net10.0\PraticaAsyncAwait.sourcelink.json
+C:\GitHub repos\Estudos-CSharp\PraticaAsyncAwait\obj\Debug\net10.0\PraticaAsyncAwait.dll
+C:\GitHub repos\Estudos-CSharp\PraticaAsyncAwait\obj\Debug\net10.0\refint\PraticaAsyncAwait.dll
+C:\GitHub repos\Estudos-CSharp\PraticaAsyncAwait\obj\Debug\net10.0\PraticaAsyncAwait.pdb
+C:\GitHub repos\Estudos-CSharp\PraticaAsyncAwait\obj\Debug\net10.0\PraticaAsyncAwait.genruntimeconfig.cache
+C:\GitHub repos\Estudos-CSharp\PraticaAsyncAwait\obj\Debug\net10.0\ref\PraticaAsyncAwait.dll

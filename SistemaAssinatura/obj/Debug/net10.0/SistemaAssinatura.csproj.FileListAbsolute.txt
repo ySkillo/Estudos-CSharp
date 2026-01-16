@@ -1,0 +1,15 @@
+C:\GitHub repos\Estudos-CSharp\SistemaAssinatura\bin\Debug\net10.0\SistemaAssinatura.exe
+C:\GitHub repos\Estudos-CSharp\SistemaAssinatura\bin\Debug\net10.0\SistemaAssinatura.deps.json
+C:\GitHub repos\Estudos-CSharp\SistemaAssinatura\bin\Debug\net10.0\SistemaAssinatura.runtimeconfig.json
+C:\GitHub repos\Estudos-CSharp\SistemaAssinatura\bin\Debug\net10.0\SistemaAssinatura.dll
+C:\GitHub repos\Estudos-CSharp\SistemaAssinatura\bin\Debug\net10.0\SistemaAssinatura.pdb
+C:\GitHub repos\Estudos-CSharp\SistemaAssinatura\obj\Debug\net10.0\SistemaAssinatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub repos\Estudos-CSharp\SistemaAssinatura\obj\Debug\net10.0\SistemaAssinatura.AssemblyInfoInputs.cache
+C:\GitHub repos\Estudos-CSharp\SistemaAssinatura\obj\Debug\net10.0\SistemaAssinatura.AssemblyInfo.cs
+C:\GitHub repos\Estudos-CSharp\SistemaAssinatura\obj\Debug\net10.0\SistemaAssinatura.csproj.CoreCompileInputs.cache
+C:\GitHub repos\Estudos-CSharp\SistemaAssinatura\obj\Debug\net10.0\SistemaAssinatura.sourcelink.json
+C:\GitHub repos\Estudos-CSharp\SistemaAssinatura\obj\Debug\net10.0\SistemaAssinatura.dll
+C:\GitHub repos\Estudos-CSharp\SistemaAssinatura\obj\Debug\net10.0\refint\SistemaAssinatura.dll
+C:\GitHub repos\Estudos-CSharp\SistemaAssinatura\obj\Debug\net10.0\SistemaAssinatura.pdb
+C:\GitHub repos\Estudos-CSharp\SistemaAssinatura\obj\Debug\net10.0\SistemaAssinatura.genruntimeconfig.cache
+C:\GitHub repos\Estudos-CSharp\SistemaAssinatura\obj\Debug\net10.0\ref\SistemaAssinatura.dll

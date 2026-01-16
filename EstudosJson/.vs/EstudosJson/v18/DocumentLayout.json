@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub repos\\Estudos-CSharp\\EstudosJson\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{528FBA7D-76B3-7637-1FC1-FB382FA7D0B0}|EstudosJson.csproj|c:\\github repos\\estudos-csharp\\estudosjson\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{528FBA7D-76B3-7637-1FC1-FB382FA7D0B0}|EstudosJson.csproj|solutionrelative:usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{528FBA7D-76B3-7637-1FC1-FB382FA7D0B0}|EstudosJson.csproj|c:\\github repos\\estudos-csharp\\estudosjson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{528FBA7D-76B3-7637-1FC1-FB382FA7D0B0}|EstudosJson.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\GitHub repos\\Estudos-CSharp\\EstudosJson\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "UsuarioService.cs",
+              "ToolTip": "C:\\GitHub repos\\Estudos-CSharp\\EstudosJson\\UsuarioService.cs",
+              "RelativeToolTip": "UsuarioService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T16:53:47.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub repos\\Estudos-CSharp\\EstudosJson\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\GitHub repos\\Estudos-CSharp\\EstudosJson\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADgvxIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T16:48:04.293Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

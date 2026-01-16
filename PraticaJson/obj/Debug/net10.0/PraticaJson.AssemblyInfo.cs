@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PraticaJson")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91477af4030fae835fc5b26ceb950aedd07e4665")]
 [assembly: System.Reflection.AssemblyProductAttribute("PraticaJson")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PraticaJson")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub repos\\Estudos-CSharp\\SistemaAssinatura\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5C3BB8-25D8-A3A0-C359-942E6F41D78C}|SistemaAssinatura.csproj|c:\\github repos\\estudos-csharp\\sistemaassinatura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5C3BB8-25D8-A3A0-C359-942E6F41D78C}|SistemaAssinatura.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5C3BB8-25D8-A3A0-C359-942E6F41D78C}|SistemaAssinatura.csproj|c:\\github repos\\estudos-csharp\\sistemaassinatura\\services\\usuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5C3BB8-25D8-A3A0-C359-942E6F41D78C}|SistemaAssinatura.csproj|solutionrelative:services\\usuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5C3BB8-25D8-A3A0-C359-942E6F41D78C}|SistemaAssinatura.csproj|c:\\github repos\\estudos-csharp\\sistemaassinatura\\services\\interfaces\\iusuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5C3BB8-25D8-A3A0-C359-942E6F41D78C}|SistemaAssinatura.csproj|solutionrelative:services\\interfaces\\iusuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5C3BB8-25D8-A3A0-C359-942E6F41D78C}|SistemaAssinatura.csproj|c:\\github repos\\estudos-csharp\\sistemaassinatura\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5C3BB8-25D8-A3A0-C359-942E6F41D78C}|SistemaAssinatura.csproj|solutionrelative:repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5C3BB8-25D8-A3A0-C359-942E6F41D78C}|SistemaAssinatura.csproj|c:\\github repos\\estudos-csharp\\sistemaassinatura\\services\\dtos\\usuarioresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5C3BB8-25D8-A3A0-C359-942E6F41D78C}|SistemaAssinatura.csproj|solutionrelative:services\\dtos\\usuarioresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5C3BB8-25D8-A3A0-C359-942E6F41D78C}|SistemaAssinatura.csproj|c:\\github repos\\estudos-csharp\\sistemaassinatura\\domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5C3BB8-25D8-A3A0-C359-942E6F41D78C}|SistemaAssinatura.csproj|solutionrelative:domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5C3BB8-25D8-A3A0-C359-942E6F41D78C}|SistemaAssinatura.csproj|c:\\github repos\\estudos-csharp\\sistemaassinatura\\services\\dtos\\createusuariorequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5C3BB8-25D8-A3A0-C359-942E6F41D78C}|SistemaAssinatura.csproj|solutionrelative:services\\dtos\\createusuariorequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateUsuarioRequestDto.cs",
+              "DocumentMoniker": "C:\\GitHub repos\\Estudos-CSharp\\SistemaAssinatura\\Services\\DTOs\\CreateUsuarioRequestDto.cs",
+              "RelativeDocumentMoniker": "Services\\DTOs\\CreateUsuarioRequestDto.cs",
+              "ToolTip": "C:\\GitHub repos\\Estudos-CSharp\\SistemaAssinatura\\Services\\DTOs\\CreateUsuarioRequestDto.cs",
+              "RelativeToolTip": "Services\\DTOs\\CreateUsuarioRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T19:06:42.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\GitHub repos\\Estudos-CSharp\\SistemaAssinatura\\Domain\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\GitHub repos\\Estudos-CSharp\\SistemaAssinatura\\Domain\\Entities\\Usuario.cs",
+              "RelativeToolTip": "Domain\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T19:06:41.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub repos\\Estudos-CSharp\\SistemaAssinatura\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\GitHub repos\\Estudos-CSharp\\SistemaAssinatura\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T19:05:30.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioServices.cs",
+              "DocumentMoniker": "C:\\GitHub repos\\Estudos-CSharp\\SistemaAssinatura\\Services\\UsuarioServices.cs",
+              "RelativeDocumentMoniker": "Services\\UsuarioServices.cs",
+              "ToolTip": "C:\\GitHub repos\\Estudos-CSharp\\SistemaAssinatura\\Services\\UsuarioServices.cs",
+              "RelativeToolTip": "Services\\UsuarioServices.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAUwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T19:05:09.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUsuarioServices.cs",
+              "DocumentMoniker": "C:\\GitHub repos\\Estudos-CSharp\\SistemaAssinatura\\Services\\Interfaces\\IUsuarioServices.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IUsuarioServices.cs",
+              "ToolTip": "C:\\GitHub repos\\Estudos-CSharp\\SistemaAssinatura\\Services\\Interfaces\\IUsuarioServices.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IUsuarioServices.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvyEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T19:03:05.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioResponseDto.cs",
+              "DocumentMoniker": "C:\\GitHub repos\\Estudos-CSharp\\SistemaAssinatura\\Services\\DTOs\\UsuarioResponseDto.cs",
+              "RelativeDocumentMoniker": "Services\\DTOs\\UsuarioResponseDto.cs",
+              "ToolTip": "C:\\GitHub repos\\Estudos-CSharp\\SistemaAssinatura\\Services\\DTOs\\UsuarioResponseDto.cs",
+              "RelativeToolTip": "Services\\DTOs\\UsuarioResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T18:59:51.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\GitHub repos\\Estudos-CSharp\\SistemaAssinatura\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\GitHub repos\\Estudos-CSharp\\SistemaAssinatura\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvykAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T18:59:13.394Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
